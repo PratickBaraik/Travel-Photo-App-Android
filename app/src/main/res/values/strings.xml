@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Travel Photo App</string>
+
+    <string name="title4">Cuba</string>
+    <string name="desc4">
+        Cuba is a Caribbean island nation renowned for its vibrant culture, stunning beaches, and rich history. A former Spanish colony, it experienced a revolution led by Fidel Castro, establishing a communist regime. Known for its classic cars, salsa music, and cigars, Cuba offers a unique blend of old-world charm and revolutionary spirit. Despite economic challenges, the country attracts tourists with its warm hospitality and captivating landscapes.
+    </string>
+
+    <string name="title3">Ottawa</string>
+    <string name="desc3">
+        Ottawa is Canada\'s capital, nestled on the Ottawa River. Known for its stunning architecture, including Parliament Hill, and vibrant cultural scene, it offers a mix of urban life and natural beauty. The Rideau Canal, a UNESCO World Heritage Site, transforms into a skating rink in winter. As a hub for government and education, Ottawa is a dynamic city with a strong sense of community.
+    </string>
+
+    <string name="title2">The Alps</string>
+    <string name="desc2">
+        The Alps are Europe\'s majestic mountain range, stretching across several countries. Known for snow-capped peaks, charming villages, and stunning lakes, they offer breathtaking scenery. Home to diverse wildlife and rich history, the Alps are a paradise for outdoor enthusiasts, attracting hikers, skiers, and climbers alike.
+    </string>
+
+    <string name="title1">Spain</string>
+    <string name="desc1">
+        Spain is a vibrant European country known for its rich history, diverse landscapes, and passionate people. From the bustling cities of Madrid and Barcelona to the sunny Mediterranean coast, Spain offers something for everyone. Enjoy world-class art, delicious tapas, lively festivals, and stunning architecture.
+    </string>
+
+    <string name="title0">Tibet</string>
+    <string name="desc0">
+        Tibet, often called the "Roof of the World", is a vast plateau region in Central Asia. Renowned for its breathtaking Himalayan landscapes, including Mount Everest, Tibet is a spiritual heartland for Buddhism. The Potala Palace, once the Dalai Lama\'s residence, is a UNESCO World Heritage site. Despite its natural beauty and cultural significance, Tibet has faced political complexities and cultural challenges in recent times.
+    </string>
+
+    <string name="empty_title"></string>
+    <string name="empty_desc"></string>
+</resources>
